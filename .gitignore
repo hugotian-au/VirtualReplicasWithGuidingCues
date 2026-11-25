@@ -1,0 +1,62 @@
+# Unity generated (applies to both Local/ and Remote/ projects)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# Asset Store tools / Plastic SCM
+**/Assets/AssetStoreTools*
+**/Assets/Plugins/PlasticSCM*
+.plastic/
+ignore.conf
+
+# Paid Asset Store package (not redistributable) - import it yourself
+**/Assets/Plugins/RootMotion/
+**/Assets/Plugins/RootMotion.meta
+
+# IDE / generated project files
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+ExportedObj/
+.consulo/
+
+# Builds
+*.apk
+*.aab
+*.app
+*.unitypackage
+crashlytics-build.properties
+sysinfo.txt
+
+# Local tool settings
+.claude/settings.local.json
+
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
