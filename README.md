@@ -1,24 +1,32 @@
-# Beyond Virtual Replicas: Automatic Spatial Guidance and Gaze Sharing in Mixed Reality Remote Collaboration
+# Virtual Replicas with Automated Guidance and Head-and-Gaze Visualization
 
-Unity source code for the second user study: a mixed-reality remote collaboration system where a
-**Remote Expert** (VR, Meta Quest Pro) guides a **Local User** (AR, Meta Quest 3) through assembling
-physical Soma cube puzzles, using tracked virtual replicas, automatic spatial guiding cues and
-eye-gaze sharing.
+Unity source code of the system used in the study reported in the manuscript *"Automated guidance
+and head-and-gaze visualization added no detectable benefit to virtual replicas in asymmetric mixed
+reality remote collaboration"* (Tian et al.).
 
-Study conditions (selected on the Remote side's experiment panel):
+In this asymmetric mixed reality system, a **remote expert** in virtual reality (VR, Meta Quest Pro)
+guides a **local worker** in augmented reality (AR, Meta Quest 3) through the assembly of physical
+Soma cube puzzles. The expert shows target poses by manipulating virtual replicas. Two further
+layers can be added: automated 6-DoF guidance cues (translation arrows and rotation arcs computed
+from the tracked pose of each piece) and a head-and-gaze visualization (the expert's head avatar and
+eye-gaze ray, shown to the worker; the expert sees a small gaze reticle).
 
-| Condition | Content |
-|-----------|---------|
-| Training | Practice session |
-| Virtual Replicas (C1) | Baseline: tracked virtual replicas + shared room representation |
-| GuidingCues (C2) | C1 + automatic translation/rotation guiding cues |
-| Cues and EyeGaze (C3) | C2 + eye-gaze visualisation of the partner |
+## Study conditions
+
+Conditions are selected on the experiment panel of the Remote project. They are cumulative.
+
+| Panel label | Name in the manuscript | Content |
+|-------------|------------------------|---------|
+| Training | Training | Practice session |
+| Virtual Replicas | C1: virtual replicas (baseline) | Tracked physical pieces, expert-manipulated virtual replicas and the shared room representation |
+| GuidingCues | C2: automated guidance | C1 + automated translation and rotation guidance cues |
+| Cues and EyeGaze | C3: guidance + head-and-gaze | C2 + the expert's head avatar and eye-gaze ray |
 
 ## Repository layout
 
 ```
-Local/    Unity project for the Local User (Meta Quest 3, passthrough AR)
-Remote/   Unity project for the Remote Expert (Meta Quest Pro, VR, eye tracking, point cloud)
+Local/    Unity project for the local worker (Meta Quest 3, passthrough AR)
+Remote/   Unity project for the remote expert (Meta Quest Pro, VR, eye tracking, point cloud)
 ```
 
 Both projects use **Unity 6000.1.13f1**, Meta XR SDK 78.0.0, OpenXR and Photon PUN 2, and are
