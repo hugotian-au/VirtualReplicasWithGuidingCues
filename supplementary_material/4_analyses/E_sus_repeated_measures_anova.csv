@@ -1,0 +1,4 @@
+effect,F,df_num,df_den,p,n_participants
+condition,0.17,2,42,0.848,22
+role,0.17,1,21,0.682,22
+condition:role,1.28,2,42,0.289,22

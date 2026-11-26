@@ -1,0 +1,13 @@
+measure,random_effects,test,chi2,p
+NASA-TLX,participant intercept,Condition,3.61,0.164
+NASA-TLX,participant intercept,Condition x Role,3.48,0.175
+NASA-TLX,participant nested in pair,Condition,3.61,0.164
+NASA-TLX,participant nested in pair,Condition x Role,3.48,0.175
+SUS,participant intercept,Condition,0.41,0.816
+SUS,participant intercept,Condition x Role,3.99,0.136
+SUS,participant nested in pair,Condition,0.41,0.816
+SUS,participant nested in pair,Condition x Role,3.99,0.136
+NMM social presence,participant intercept,Condition,3.21,0.201
+NMM social presence,participant intercept,Condition x Role,2.88,0.237
+NMM social presence,participant nested in pair,Condition,3.21,0.201
+NMM social presence,participant nested in pair,Condition x Role,2.88,0.237

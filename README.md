@@ -27,6 +27,7 @@ Conditions are selected on the experiment panel of the Remote project. They are 
 ```
 Local/    Unity project for the local worker (Meta Quest 3, passthrough AR)
 Remote/   Unity project for the remote expert (Meta Quest Pro, VR, eye tracking, point cloud)
+supplementary_material/   Study instruments, coding definitions, aggregated results, and sensitivity analyses
 ```
 
 Both projects use **Unity 6000.1.13f1**, Meta XR SDK 78.0.0, OpenXR and Photon PUN 2, and are

@@ -1,0 +1,5 @@
+test,statistic,p
+Friedman,1.75,0.42
+Wilcoxon C1 vs C2,132.0,0.62
+Wilcoxon C1 vs C3,111.0,0.28
+Wilcoxon C2 vs C3,125.0,0.49

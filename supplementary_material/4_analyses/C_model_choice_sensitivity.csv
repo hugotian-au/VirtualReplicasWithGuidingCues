@@ -1,0 +1,31 @@
+measure,block_term,random_effects,chi2,p,converged,singular
+NASA-TLX,linear,random intercept,3.61,0.1642,True,False
+NASA-TLX,linear,correlated Condition random slopes,3.09,0.213,True,False
+NASA-TLX,linear,uncorrelated Condition slopes,1.81,0.4053,True,False
+NASA-TLX,categorical,random intercept,3.6,0.1655,True,False
+NASA-TLX,categorical,correlated Condition random slopes,3.19,0.2029,True,False
+NASA-TLX,categorical,uncorrelated Condition slopes,3.07,0.2152,True,False
+SUS,linear,random intercept,0.41,0.8161,True,False
+SUS,linear,correlated Condition random slopes,0.37,0.8326,True,True
+SUS,linear,uncorrelated Condition slopes,0.37,0.8326,True,False
+SUS,categorical,random intercept,0.41,0.813,True,False
+SUS,categorical,correlated Condition random slopes,0.38,0.829,True,True
+SUS,categorical,uncorrelated Condition slopes,0.38,0.829,True,False
+NMM composite,linear,random intercept,3.21,0.2011,True,False
+NMM composite,linear,correlated Condition random slopes,3.22,0.2001,True,False
+NMM composite,linear,uncorrelated Condition slopes,3.21,0.2007,True,False
+NMM composite,categorical,random intercept,3.19,0.2031,True,False
+NMM composite,categorical,correlated Condition random slopes,3.16,0.2055,False,False
+NMM composite,categorical,uncorrelated Condition slopes,3.16,0.2056,True,False
+Completion time,linear,random intercept,1.31,0.52,True,False
+Completion time,linear,correlated Condition random slopes,1.07,0.5863,True,False
+Completion time,linear,uncorrelated Condition slopes,1.01,0.6023,True,False
+Completion time,categorical,random intercept,1.34,0.5114,True,False
+Completion time,categorical,correlated Condition random slopes,1.14,0.5648,True,False
+Completion time,categorical,uncorrelated Condition slopes,1.1,0.5757,True,False
+Completion time,first-block indicator,random intercept,1.36,0.507,,
+NASA-TLX,first-block indicator,random intercept,3.59,0.166,,
+SUS,first-block indicator,random intercept,0.4,0.819,,
+NMM composite,first-block indicator,random intercept,3.2,0.202,,
+Completion time,linear,log-seconds mixed model,0.72,0.696,,
+Completion time,linear,"Gamma GLM (log link), pair fixed effects",0.66,0.721,,

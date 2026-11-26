@@ -1,0 +1,42 @@
+measure,term,estimate,ci_low,ci_high,chi2,p
+Completion time (s),"Condition omnibus (LRT, df=2)",,,,1.31,0.52
+Completion time (s),C2 - C1,-19.914,-55.836,16.008,,0.277
+Completion time (s),C3 - C1,-15.642,-51.11,19.827,,0.387
+Completion time (s),C3 - C2,4.272,-31.65,40.194,,0.816
+Completion time (s),"Block (linear, per block)",-19.592,-37.553,-1.631,,0.033
+NASA-TLX (0-100),"Condition omnibus (LRT, df=2)",,,,3.61,0.164
+NASA-TLX (0-100),C2 - C1,-3.789,-7.718,0.139,,0.059
+NASA-TLX (0-100),C3 - C1,-2.452,-6.381,1.476,,0.221
+NASA-TLX (0-100),C3 - C2,1.337,-2.567,5.241,,0.502
+NASA-TLX (0-100),"Block (linear, per block)",-3.056,-5.008,-1.104,,0.002
+NASA-TLX (0-100),"Condition x Role (LRT, df=2)",,,,3.48,0.175
+SUS (0-100),"Condition omnibus (LRT, df=2)",,,,0.41,0.816
+SUS (0-100),C2 - C1,0.619,-2.148,3.386,,0.661
+SUS (0-100),C3 - C1,0.879,-1.887,3.646,,0.533
+SUS (0-100),C3 - C2,0.26,-2.471,2.992,,0.852
+SUS (0-100),"Block (linear, per block)",2.203,0.829,3.578,,0.002
+SUS (0-100),"Condition x Role (LRT, df=2)",,,,3.99,0.136
+Networked Minds composite (1-7),"Condition omnibus (LRT, df=2)",,,,3.21,0.201
+Networked Minds composite (1-7),C2 - C1,0.1,-0.103,0.302,,0.336
+Networked Minds composite (1-7),C3 - C1,0.186,-0.016,0.389,,0.071
+Networked Minds composite (1-7),C3 - C2,0.087,-0.115,0.288,,0.398
+Networked Minds composite (1-7),"Block (linear, per block)",0.108,0.008,0.209,,0.035
+Networked Minds composite (1-7),"Condition x Role (LRT, df=2)",,,,2.88,0.237
+NMM co-presence (1-7),"Condition omnibus (LRT, df=2)",,,,5.87,0.053
+NMM co-presence (1-7),C2 - C1,0.179,-0.084,0.441,,0.182
+NMM co-presence (1-7),C3 - C1,0.328,0.066,0.591,,0.014
+NMM co-presence (1-7),C3 - C2,0.149,-0.111,0.41,,0.262
+NMM co-presence (1-7),"Block (linear, per block)",0.102,-0.028,0.233,,0.124
+NMM co-presence (1-7),"Condition x Role (LRT, df=2)",,,,2.09,0.351
+NMM attentional engagement (1-7),"Condition omnibus (LRT, df=2)",,,,1.33,0.515
+NMM attentional engagement (1-7),C2 - C1,-0.013,-0.275,0.248,,0.92
+NMM attentional engagement (1-7),C3 - C1,0.125,-0.136,0.387,,0.347
+NMM attentional engagement (1-7),C3 - C2,0.139,-0.121,0.398,,0.294
+NMM attentional engagement (1-7),"Block (linear, per block)",0.113,-0.017,0.243,,0.088
+NMM attentional engagement (1-7),"Condition x Role (LRT, df=2)",,,,3.68,0.159
+NMM mutual understanding (1-7),"Condition omnibus (LRT, df=2)",,,,1.14,0.564
+NMM mutual understanding (1-7),C2 - C1,0.133,-0.123,0.388,,0.308
+NMM mutual understanding (1-7),C3 - C1,0.105,-0.15,0.36,,0.421
+NMM mutual understanding (1-7),C3 - C2,-0.028,-0.281,0.226,,0.83
+NMM mutual understanding (1-7),"Block (linear, per block)",0.109,-0.017,0.236,,0.091
+NMM mutual understanding (1-7),"Condition x Role (LRT, df=2)",,,,2.02,0.364

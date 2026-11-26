@@ -1,0 +1,7 @@
+measure,role_contrast,estimate,bootstrap_ci_low,bootstrap_ci_high
+NASA-TLX,"C2 vs C1, worker minus expert",+4.55,-1.458,+10.893
+NASA-TLX,"C3 vs C1, worker minus expert",+7.37,+3.159,+11.807
+SUS,"C2 vs C1, worker minus expert",-2.91,-7.108,+1.094
+SUS,"C3 vs C1, worker minus expert",+2.61,-2.099,+7.608
+NMM,"C2 vs C1, worker minus expert",-0.27,-0.573,-0.007
+NMM,"C3 vs C1, worker minus expert",+0.06,-0.375,+0.397

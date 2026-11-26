@@ -1,0 +1,20 @@
+variable,category,value
+Participants,N,24
+Age (years),mean,32.83
+Age (years),SD,9.37
+Age (years),range,20-49
+Gender,Male,14
+Gender,Female,10
+VR headset use,Very rarely,11
+VR headset use,Never,6
+VR headset use,Often,6
+VR headset use,Everyday,1
+AR headset use,Very rarely,14
+AR headset use,Never,8
+AR headset use,Often,2
+AR/VR remote-collaboration system use,Never,12
+AR/VR remote-collaboration system use,Very rarely,10
+AR/VR remote-collaboration system use,Often,2
+Partner familiarity (pairs),Very familiar with each other.,7
+Partner familiarity (pairs),Don’t know each other.,3
+Partner familiarity (pairs),Know a little.,2

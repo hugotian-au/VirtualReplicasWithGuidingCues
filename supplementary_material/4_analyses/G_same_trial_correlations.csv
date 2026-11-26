@@ -1,0 +1,4 @@
+measure,same_trial_r,p_uncorrected,n_trials,pair_bootstrap_ci_low,pair_bootstrap_ci_high
+NASA-TLX,0.3,0.011,71,-0.3,0.57
+SUS,-0.18,0.135,70,-0.51,0.09
+NMM,-0.27,0.021,71,-0.59,0.03

@@ -1,0 +1,7 @@
+category,n_responses,coder1_yes,coder2_yes,both_yes,coder1_only,coder2_only,both_no,percent_agreement,cohens_kappa
+Reduced reliance on speech,24,5,5,5,0,0,19,100.0,1.0
+Head-and-gaze visualization aided awareness or presence,24,12,10,10,2,0,12,91.7,0.83
+Clutter or excessive cues,24,8,7,7,1,0,16,95.8,0.9
+Misregistration / real-vs-virtual confusion,24,8,8,7,1,1,15,91.7,0.81
+Avatar or ray occlusion,24,2,2,2,0,0,22,100.0,1.0
+Baseline sometimes sufficient,24,4,2,2,2,0,20,91.7,0.62

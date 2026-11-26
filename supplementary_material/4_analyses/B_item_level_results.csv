@@ -1,0 +1,17 @@
+instrument,item,scale,mean_C1_Expert,mean_C1_Worker,mean_C2_Expert,mean_C2_Worker,mean_C3_Expert,mean_C3_Worker,condition_p,condition_x_role_p,leave_one_out_p_min,leave_one_out_p_max
+SUS,I think that I would like to use this system frequently.,1-5,3.95,3.88,4.08,4.0,4.12,3.88,0.538,0.6517,0.3736,0.9637
+SUS,I thought the system was easy to use.,1-5,4.41,4.29,4.5,4.29,4.42,4.5,0.555,0.3327,0.1178,0.6056
+SUS,I found the various functions in this system were well integrated.,1-5,4.27,4.08,4.12,4.04,4.25,4.29,0.179,0.5922,0.3606,0.823
+SUS,I would imagine that most people would learn to use this system very quickly.,1-5,4.23,4.38,4.17,4.17,4.25,4.33,0.492,0.675,0.4249,0.8608
+SUS,I felt very confident using the system.,1-5,4.32,4.25,4.42,4.33,4.25,4.29,0.71,0.8951,0.4918,0.9579
+SUS,I found the system unnecessarily complex.,1-5,2.0,1.92,1.58,2.17,2.08,1.75,0.842,0.0135,0.0062,0.0427
+SUS,I think that I would need the support of a technical person to be able to use this system.,1-5,2.32,2.54,2.33,2.17,2.5,2.17,0.571,0.382,0.2446,0.8124
+SUS,I thought there was too much inconsistency in this system.,1-5,1.86,1.83,1.75,1.96,1.88,1.92,0.917,0.4215,0.1889,0.8483
+SUS,I found the system very cumbersome to use.,1-5,2.09,2.12,2.12,2.25,2.08,2.08,0.714,0.8744,0.687,0.9687
+SUS,I needed to learn a lot of things before I could get going with this system.,1-5,1.77,1.92,1.79,2.08,2.04,1.96,0.54,0.3258,0.1614,0.5768
+NASA-TLX,How mentally demanding was the task?,0-100,36.52,24.17,26.88,23.33,27.92,26.04,0.182,0.1301,0.054,0.267
+NASA-TLX,How physically demanding was the task?,0-100,29.57,31.88,27.5,26.88,23.12,21.67,0.02,0.7625,0.4846,0.9512
+NASA-TLX,How hurried or rushed was the pace of the task?,0-100,25.65,18.96,18.96,17.71,19.79,22.5,0.451,0.332,0.1709,0.7696
+NASA-TLX,How hard did you have to work to accomplish your level of performance?,0-100,36.3,25.0,28.96,18.54,24.79,33.12,0.278,0.0402,0.0224,0.2554
+NASA-TLX,"How insecure, discouraged, irritated, stressed, and annoyed wereyou?",0-100,14.35,9.17,8.75,9.58,6.04,8.75,0.243,0.266,0.1903,0.6501
+NASA-TLX,How successful were you in accomplishing what you were asked to do?,0-100,89.57,90.83,94.38,87.08,85.42,86.67,0.265,0.2668,0.1221,0.5447

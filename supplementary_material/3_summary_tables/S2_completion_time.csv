@@ -1,0 +1,7 @@
+grouping,level,n_trials,mean_s,sd_s,median_s,min_s,max_s
+condition,C1,24,254.2,112.8,233.6,130.5,645.3
+condition,C2,23,235.9,62.4,236.9,139.1,355.2
+condition,C3,24,238.5,81.9,236.5,96.7,410.5
+block position,1,24,271.7,117.5,251.3,96.7,645.3
+block position,2,24,222.7,58.5,230.2,114.5,410.5
+block position,3,23,234.1,70.4,234.9,130.5,355.2
