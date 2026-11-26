@@ -1,6 +1,6 @@
 # Supplementary Material
 
-**Automated guidance and head-and-gaze visualization produced mixed feedback but no reliable gains over virtual replicas in asymmetric mixed reality remote collaboration**
+**Effects of cumulatively adding automated guidance and head-and-gaze visualization to virtual replicas in asymmetric mixed reality remote collaboration**
 
 This package contains study instruments, the coding definitions, aggregated results, and the sensitivity analyses. It contains no questionnaire response rows, free-text responses, demographic records, participant identifiers, dates, or times. The only trial-level file is the completion-time table `4_analyses/K_trial_shape_id_table.csv`, which identifies pairs by run order only.
 
