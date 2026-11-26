@@ -65,3 +65,11 @@ Desktop.ini
 /Remote/Assets/DetermFlowbitServer/
 /Remote/Assets/DetermFlowbitServer.meta
 /Remote/Assets/Scenes/FlowbitServer*Example.unity*
+
+# Photon PUN 2 (third-party; import from the Unity Asset Store, do not commit).
+# Only this project's Photon settings file, which holds the RPC list, is tracked.
+/*/Assets/Photon.meta
+/*/Assets/Photon/**
+!/*/Assets/Photon/**/
+!/*/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+!/*/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset.meta
