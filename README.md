@@ -1,8 +1,8 @@
 # Virtual Replicas with Automated Guidance and Head-and-Gaze Visualization
 
 Unity source code of the system used in the study reported in the manuscript *"Automated guidance
-and head-and-gaze visualization added no detectable benefit to virtual replicas in asymmetric mixed
-reality remote collaboration"* (Tian et al.).
+and head-and-gaze visualization produced mixed feedback but no reliable gains over virtual
+replicas in asymmetric mixed reality remote collaboration"* (Tian et al.).
 
 In this asymmetric mixed reality system, a **remote expert** in virtual reality (VR, Meta Quest Pro)
 guides a **local worker** in augmented reality (AR, Meta Quest 3) through the assembly of physical
