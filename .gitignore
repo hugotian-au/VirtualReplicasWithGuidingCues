@@ -60,3 +60,8 @@ sysinfo.txt
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Determ Flowbit Server Unity plugin (third-party; obtain from Determ Technology, do not commit)
+/Remote/Assets/DetermFlowbitServer/
+/Remote/Assets/DetermFlowbitServer.meta
+/Remote/Assets/Scenes/FlowbitServer*Example.unity*

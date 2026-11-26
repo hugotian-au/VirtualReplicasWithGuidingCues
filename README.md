@@ -44,8 +44,10 @@ connected over Photon.
 3. **Final IK (Remote only)**: the Remote avatar (`Assets/Prefabs/Player.prefab`) uses
    [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) by RootMotion,
    a paid Asset Store package that is not included. Import it into `Remote/Assets/Plugins/RootMotion/`.
-4. The Remote side streams the room point cloud through the Flowbit server plugin in
-   `Remote/Assets/DetermFlowbitServer/` (Windows x64 only).
+4. **Determ Flowbit Server Unity plugin (Remote only)**: the Remote side streams the room point
+   cloud through this third-party plugin (v1.4.0, Windows x64 only), which is not included. Obtain
+   it from Determ Technology and import it into `Remote/Assets/DetermFlowbitServer/`, then
+   configure its `Config/` folder for your own cameras.
 
 ## Scenes
 
